@@ -1,4 +1,4 @@
-# 🌟 Exercise 4 - Understanding Preemptive Priority Scheduling in FreeRTOS
+# 🌟 Exercise 4 - Gain a good understanding of task behaviour where a priority preemptive scheduling policy is used.
 
 Latihan ini dirancang untuk memahami perilaku multitasking dalam sistem operasi real-time (RTOS) menggunakan kebijakan penjadwalan preemptive priority. Eksperimen ini memanfaatkan STM32 dan FreeRTOS untuk mengamati pengaruh prioritas tugas terhadap urutan eksekusi.
 
