@@ -11,6 +11,11 @@ Latihan ini dirancang untuk memahami perilaku multitasking dalam sistem operasi 
 
 ---
 
+## 📂 Node Diagram
+
+
+---
+
 ## 🛠️ Peralatan
 - 🖥️ **Board STM32** (konfigurasi sesuai file `.ioc`).
 - 💡 **LED**:
@@ -48,7 +53,7 @@ Latihan ini dirancang untuk memahami perilaku multitasking dalam sistem operasi 
 
 ---
 
-## 🌟 Hasil yang Diharapkan
+## 🌟 Output
 - 🟢 **Green LED**:
   - Berkedip 8 kali setiap 500 ms, dengan delay 6 detik.
   - Eksekusinya sering diinterupsi oleh Red LED karena prioritas lebih rendah.
@@ -59,4 +64,4 @@ Latihan ini dirancang untuk memahami perilaku multitasking dalam sistem operasi 
 ---
 
 ## 📊 Hasil Percobaan
-https://github.com/Lailymau/Task-Behavior-in-Preemptive-Scheduling/issues/1#issue-2709409092
+https://github.com/user-attachments/assets/797dbc35-696e-4f98-804e-01c99aa5812b
