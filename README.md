@@ -12,7 +12,7 @@ Latihan ini dirancang untuk memahami perilaku multitasking dalam sistem operasi 
 ---
 
 ## 📂 Node Diagram
-
+![image](https://github.com/user-attachments/assets/a7f3902d-4e93-4dd5-8c64-bacca9fcf3bc)
 
 ---
 
