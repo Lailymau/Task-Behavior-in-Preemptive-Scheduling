@@ -59,3 +59,4 @@ Latihan ini dirancang untuk memahami perilaku multitasking dalam sistem operasi 
 ---
 
 ## 📊 Hasil Percobaan
+https://github.com/Lailymau/Task-Behavior-in-Preemptive-Scheduling/issues/1#issue-2709409092
